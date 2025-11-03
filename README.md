@@ -24,5 +24,5 @@ A simple full-stack task tracking application built with **React (Frontend)** an
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/task-tracker.git
-cd task-tracker
+git clone https://github.com/piyajalmi/TaskManagerApp.git
+cd TaskManagerApp
